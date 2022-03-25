@@ -19,6 +19,7 @@ const PLAYERS = [
     "Slayer",
     "Vader",
     "Slingo"
+    
 ];
 
 // initialize players with image and strength
